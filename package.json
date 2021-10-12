@@ -14,7 +14,7 @@
   "dependencies": {
     "@discordjs/opus": "0.2.1",
     "discord.js": "^12.2.0",
-    "electron": "8.2.1",
+    "electron": "11.5.0",
     "ffmpeg-static": "4.2.0",
     "fomantic-ui": "^2.8.5-beta.64",
     "fs": "0.0.1-security",
